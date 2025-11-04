@@ -2,6 +2,7 @@
 
 A research assistant built using **LangChain**, **Google Gemini**, and **Pydantic**.  
 It generates structured research summaries using external tools like DuckDuckGo, Wikipedia.
+You can also feed it your own tools.
 
 ## 🔧 Setup
 
